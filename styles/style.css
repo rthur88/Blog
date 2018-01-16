@@ -1,0 +1,21 @@
+html {
+    background-color: #00539F;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+body {
+    width: 600px;
+    background-color: #FF9500;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 20px;
+}
